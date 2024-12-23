@@ -1,0 +1,12 @@
+# Build folders
+bin/
+obj/
+
+# IDE folders and files
+.vs/
+.vscode/
+*.user
+
+# System files
+.DS_Store
+Thumbs.db
